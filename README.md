@@ -1,4 +1,4 @@
-          # AdventOfCode
+# AdventOfCode
 _Made with Python 3.15_
 
 ## Getting started guide
